@@ -2,7 +2,7 @@
 
 # 3 PostgreSQL databases + Python CLI/GUI
 
-Video Link - 
+Video Link -  https://youtu.be/41TmySpgoY4
 
 
 ## How everything fits together
