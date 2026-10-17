@@ -2,6 +2,8 @@
 
 # 3 PostgreSQL databases + Python CLI/GUI
 
+Video Link - 
+
 
 ## How everything fits together
 | File | Role |
